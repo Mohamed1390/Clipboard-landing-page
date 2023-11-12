@@ -176,7 +176,7 @@ footer {
 /* Start Media Screen */
 @media (max-width:600px), (min-width:1440px){
     #header {
-        background: url(images/bg-header-mobile.png) no-repeat;
+        background: url(images/bg-header-mobile.png) no-repeat cover;
         display: flex;
         flex-flow: row wrap;
         align-items: center;
